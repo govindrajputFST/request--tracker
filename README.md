@@ -16,4 +16,4 @@ Request Tracker Package is a lightweight, efficient, and easy-to-use library des
 Install the package using npm:
 
 ```bash
-npm install request-tracker
+npm i @govind_rajput/request--tracker
